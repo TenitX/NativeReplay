@@ -1,5 +1,7 @@
 # nativereplay
 
+![animated-nativereplay-logo](https://github.com/TenitX/NativeReplay/assets/19876974/340a04b7-3928-4eb0-bb2d-f9ce1e96daa8)
+
 Session Replays built for React Native
 
 ## Installation
@@ -38,5 +40,3 @@ See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the 
 MIT
 
 ---
-
-Made with [create-react-native-library](https://github.com/callstack/react-native-builder-bob)
